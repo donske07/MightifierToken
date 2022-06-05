@@ -1,0 +1,2 @@
+# MightifierToken
+Possiblities
